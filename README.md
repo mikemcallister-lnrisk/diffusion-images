@@ -3,4 +3,4 @@
 Based on https://github.com/lstein/stable-diffusion
 
 ### V3
-[v3](v3/README.md)
+[A Study of Shells](v3/README.md)
