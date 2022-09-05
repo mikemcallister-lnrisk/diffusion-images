@@ -98,3 +98,38 @@
 | shell cellular watercolor | shells watercolor | shells abstract watercolor | shells photo |
 | -- | -- | -- | -- |
 | <img src="images/output_176.png" width=200/> | <img  src="images/output_177.png" width=200/> | <img  src="images/output_178.png" width=200/> | <img src="images/output_180.png" width=200/> |
+
+### Source Image
+<img src="images/src_186.png" width=200/>
+
+| shells photo | shell pastels | shell drawing | shell drawing abstract |
+| -- | -- | -- | -- |
+| <img src="images/output_186.png" width=200/> | <img  src="images/output_187.png" width=200/> | <img  src="images/output_188.png" width=200/> | <img src="images/output_189.png" width=200/> |
+
+### Source Image
+<img src="images/src_211.png" width=200/>
+
+| shells watercolor cellular | shells biological xray | shell pastels abstract | shells abstract |
+| -- | -- | -- | -- |
+| <img src="images/output_211.png" width=200/> | <img  src="images/output_213.png" width=200/> | <img  src="images/output_214.png" width=200/> | <img src="images/output_215.png" width=200/> |
+
+### Source Image
+<img src="images/src_221.png" width=200/>
+
+| shell biological | shells photo xray | shells photo biological | shells watercolor |
+| -- | -- | -- | -- |
+| <img src="images/output_221.png" width=200/> | <img  src="images/output_222.png" width=200/> | <img  src="images/output_223.png" width=200/> | <img src="images/output_224.png" width=200/> |
+
+### Source Image
+<img src="images/src_231.png" width=200/>
+
+| shells watercolor abstract | shells watercolor | shells abstract abstract | shell drawing watercolor |
+| -- | -- | -- | -- |
+| <img src="images/output_231.png" width=200/> | <img  src="images/output_232.png" width=200/> | <img  src="images/output_233.png" width=200/> | <img src="images/output_235.png" width=200/> |
+
+### Source Image
+<img src="images/src_246.png" width=200/>
+
+| shell abstract | shell pastels xray| shells watercolor | shells watercolor |
+| -- | -- | -- | -- |
+| <img src="images/output_246.png" width=200/> | <img  src="images/output_248.png" width=200/> | <img  src="images/output_249.png" width=200/> | <img src="images/output_250.png" width=200/> |
