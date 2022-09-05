@@ -13,3 +13,6 @@ Based on https://github.com/lstein/stable-diffusion
 * [A Study of Tree and Roots v1](v4/README.md)
 * [A Study of Tree and Roots v2](V5/README.md)
 * [A Study of Tree and Roots v6](V6/README.md)
+
+### Flowers
+* [study 1](V7/README.md)
