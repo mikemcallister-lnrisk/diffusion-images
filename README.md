@@ -9,5 +9,5 @@ Based on https://github.com/lstein/stable-diffusion
 
 
 ### Tree And Stuff
-[A Study of Tree and Roots v1](v4/README.md)
-[A Study of Tree and Roots v2](v5/README.md)
+* [A Study of Tree and Roots v1](V4/README.md)
+* [A Study of Tree and Roots v2](V5/README.md)
