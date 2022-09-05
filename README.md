@@ -2,5 +2,7 @@
 
 Based on https://github.com/lstein/stable-diffusion
 
-### V3
+### Miscellaneous
+
+### Shells
 [A Study of Shells](v3/README.md)
