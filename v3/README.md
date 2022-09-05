@@ -35,3 +35,24 @@
 | shell abstract |
 | -- |
 | <img src="images/output_10.png" width=200/> |
+
+### Source Image
+<img src="images/src_26.png" width=200/>
+
+| shells watercolor | shells abstract | shell biological cellular | shells watercolor drawing |
+| -- | -- | -- | -- |
+| <img src="images/output_26.png" width=200/> | <img  src="images/output_27.png" width=200/> | <img  src="images/output_28.png" width=200/> | <img src="images/output_29.png" width=200/> |
+
+### Source Image
+<img src="images/src_71.png" width=200/>
+
+| shell pastels abstract | shell watercolor drawing | shells drawing | shell photo watercolor |
+| -- | -- | -- | -- |
+| <img src="images/output_71.png" width=200/> | <img  src="images/output_72.png" width=200/> | <img  src="images/output_74.png" width=200/> | <img src="images/output_75.png" width=200/> |
+
+### Source Image
+<img src="images/src_91.png" width=200/>
+
+| shell xray biological | shells watercolor | shells watercolor | shell watercolor biological |
+| -- | -- | -- | -- |
+| <img src="images/output_91.png" width=200/> | <img  src="images/output_92.png" width=200/> | <img  src="images/output_94.png" width=200/> | <img src="images/output_95.png" width=200/> |
