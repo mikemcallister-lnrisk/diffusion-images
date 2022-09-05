@@ -15,6 +15,7 @@ Based on https://github.com/lstein/stable-diffusion
 * [A Study of Tree and Roots v2](V5/README.md)
 * [A Study of Tree and Roots v3](V6/README.md)
 * [A Study of Tree and Roots v4](V9/README.md)
+* [trees](V11/README.md)
 
 ### Flowers
 * [study 1](V7/README.md)
