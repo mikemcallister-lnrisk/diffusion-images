@@ -4,6 +4,7 @@ Based on https://github.com/lstein/stable-diffusion
 
 ### Miscellaneous
 * [shapes 1](V8/README.md)
+* [shapes 2](V14/README.md)
 
 ### Shells
 * [A Study of Shells V1](v2/README.md)
@@ -18,6 +19,8 @@ Based on https://github.com/lstein/stable-diffusion
 * [A Study of Tree and Roots v4](V9/README.md)
 * [trees](V11/README.md)
 * [trees](V12/README.md)
+* [trees](V16/README.md)
+* [trees](V17/README.md)
 
 ### Flowers
 * [study 1](V7/README.md)
